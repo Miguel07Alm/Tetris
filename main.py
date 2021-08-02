@@ -1,4 +1,5 @@
 import pygame, random, time
+
 from PIL import Image
 from func import *
 from math import *
